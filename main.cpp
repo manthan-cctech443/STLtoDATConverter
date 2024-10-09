@@ -29,3 +29,4 @@ int main() {
     cout << "Finished writing to output1.dat." << endl;
     return 0;
 }
+
