@@ -10,7 +10,7 @@ void Reader::readSTL(const string& filename, Triangulation& triangulation, vecto
     if (!inFile) {
         throw std::runtime_error("Unable to open file");
     }
-
+ 
     string line;
 
     while (getline(inFile, line)) {
