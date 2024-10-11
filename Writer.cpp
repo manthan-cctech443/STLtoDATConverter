@@ -21,3 +21,4 @@ void Writer::writeDAT(const string& filename, const vector<Triangle>& triangles,
 
     outFile.close();
 }
+
