@@ -8,3 +8,4 @@ class Writer {
 public:
     void writeDAT(const string& filename, const vector<Triangle>& triangles, const vector<double>& uniquePoints);
 };
+
