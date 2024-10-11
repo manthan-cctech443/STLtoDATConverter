@@ -11,4 +11,4 @@ public:
     int getX() const;
     int getY() const;
     int getZ() const;
-};
+}; 
