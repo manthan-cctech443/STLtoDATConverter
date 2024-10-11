@@ -8,3 +8,4 @@ void Triangulation::addTriangle(const Triangle& triangle) {
 vector<Triangle> Triangulation::getTriangles() const {
     return triangles;
 }
+
