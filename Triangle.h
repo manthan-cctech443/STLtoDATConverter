@@ -12,4 +12,4 @@ public:
     Point getP1() const;
     Point getP2() const;
     Point getP3() const;
-};
+}; 
