@@ -11,3 +11,4 @@ private:
 public:
     void readSTL(const string& filename, Triangulation& triangulation, vector<double>& uniquePoints);
 };
+ 
