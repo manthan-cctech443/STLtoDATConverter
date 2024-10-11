@@ -6,4 +6,4 @@ Triangle::~Triangle() {}
 
 Point Triangle::getP1() const { return p1; }
 Point Triangle::getP2() const { return p2; }
-Point Triangle::getP3() const { return p3; }
+Point Triangle::getP3() const { return p3; } 
