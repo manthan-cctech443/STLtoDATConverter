@@ -22,8 +22,13 @@ To convert an STL file named input.stl into output.dat, place the input file in 
 
 File Structure
 main.cpp: Contains the main function and program logic.
+
 Reader.h/.cpp: Handles reading STL files and extracting vertex data.
+
 Writer.h/.cpp: Responsible for writing the converted data to DAT files.
+
 Triangle.h/.cpp: Defines the Triangle class for storing triangle data.
+
 Triangulation.h/.cpp: Manages a collection of triangles.
+
 Point.h/.cpp: Defines the Point class for representing 3D points.
