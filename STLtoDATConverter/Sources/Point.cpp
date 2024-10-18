@@ -1,4 +1,4 @@
-#include "C:\Users\Manthan Sawant\Desktop\STLtoDATConverter\Headers\Point.h"
+#include "Point.h"
 
 // Constructor to initialize a point with given coordinates
 Point::Point(int x, int y, int z) : x(x), y(y), z(z) {}

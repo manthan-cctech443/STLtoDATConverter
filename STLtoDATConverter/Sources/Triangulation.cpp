@@ -1,4 +1,4 @@
-#include "C:\Users\Manthan Sawant\Desktop\STLtoDATConverter\Headers\Triangulation.h"
+#include "Triangulation.h"
 
 using namespace std;
 

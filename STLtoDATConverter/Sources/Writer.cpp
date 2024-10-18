@@ -1,4 +1,4 @@
-#include "C:\Users\Manthan Sawant\Desktop\STLtoDATConverter\Headers\Writer.h"
+#include "Writer.h"
 #include <stdexcept>
 
 using namespace std;

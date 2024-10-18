@@ -1,4 +1,4 @@
-#include "C:\Users\Manthan Sawant\Desktop\STLtoDATConverter\Headers\Reader.h"
+#include "Reader.h"
 #include <fstream>
 #include <sstream>
 #include <stdexcept>
