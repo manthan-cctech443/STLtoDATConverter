@@ -3,7 +3,7 @@
 // Constructor to initialize a point with given coordinates
 Point::Point(int x, int y, int z) : x(x), y(y), z(z) {}
 
-// Destructor (currently does nothing)
+// Destructor 
 Point::~Point() {}
 
 // Getter for the X coordinate
