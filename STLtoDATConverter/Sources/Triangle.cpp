@@ -1,4 +1,4 @@
-#include "Triangle.h"
+#include "C:\Users\Manthan Sawant\Desktop\STLtoDATConverter\Headers\Triangle.h"
 
 // Constructor to initialize a triangle with three given points
 Triangle::Triangle(const Point& p1, const Point& p2, const Point& p3) : p1(p1), p2(p2), p3(p3) {}
